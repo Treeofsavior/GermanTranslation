@@ -2,7 +2,7 @@
 
 Welcome!
 
-This repository exists to edit in-game text for the English version of Tree of Savior.
+This repository exists to provide German translation for the English version of Tree of Savior.
 
 To suggest text changes, report translation issues or make questions about the project, please head to our official Discord server at https://discord.gg/gKU87BP
 
