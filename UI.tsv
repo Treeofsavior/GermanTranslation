@@ -1366,7 +1366,7 @@ UI_20150323_001365	{@st41}Verkaufen
 UI_20150323_001366	{@st41}Alchemiematerial
 UI_20150323_001367	{@st41}Alchemieergebnis {@stx1}(%s erforderlich){/}
 UI_20150323_001368	{@st59}Haustier beschwören{/}
-UI_20150323_001369	{@st41b}Charaktereinstellungen{/}
+UI_20150323_001369	{@st41b}Char. Einst.{/}
 UI_20150323_001370	{@st59}Zauberbuch{/}
 UI_20150323_001371	{@st41b}Blooming aktivieren{/}
 UI_20150323_001372	{@st41b}Vignettierung aktivieren{/}
@@ -1961,7 +1961,7 @@ UI_20151224_001960	{@st41}Verwenden
 UI_20151224_001961	{@st59b}Klassen{nl}{@st59s}– Du kannst neue Fertigkeiten erlernen, indem du den Kreis deiner Klasse erweiterst.{nl} – Für den Aufstieg vom ersten zum zweiten Kreis kannst du aus 3 verfügbaren Klassen wählen.{nl}– Mit ein und derselben Klasse kannst du bis zu dreimal aufsteigen.{nl}– Sobald du in eine andere Klasse aufgestiegen bist, kannst du nicht mehr zurück in die vorherige Klasse wechseln.{nl}– Du musst alle Fertigkeitspunkte verbrauchen, um aufsteigen zu können.{nl}– Du kannst dieselbe Klasse auswählen.{nl}{@st59b}Fertigkeiten{nl}{@st59s}– Du kannst den Rang jeder Fertigkeit bis auf Stufe 5 erhöhen.{nl}– Attribute, die du von deinen Meistern erlernt hast, werden unterhalb deiner Fertigkeiten angezeigt.{/}
 UI_20151224_001962	{@st66b}Informationen{/}
 UI_20151224_001963	{@st66b}Erfolge{/}
-UI_20151224_001964	{@st66b}Charaktereinstellungen{/}
+UI_20151224_001964	{@st66b}Char. Einst.{/}
 UI_20151224_001965	{@st59}Sammlung (F11){/}
 UI_20151224_001966	{@st66b}Tastaturbelegung
 UI_20151224_001967	{@st42}Dauer: %s{/}
@@ -3050,8 +3050,8 @@ UI_20180413_003049	{@st43b}{s18}Vorteile (in Kürze verfügbar){/}
 UI_20180413_003050	ⓘ Schau auf unserer offiziellen Website treeofsavior.com vorbei. Dort findest du für weitere Informationen über Belohnungen und die Vorteile der Territorialkriege während der Beta-Testphase.
 UI_20180418_003051	{@st47}{s18}Verarbeitete Ausrüstung anzeigen
 UI_20180418_003052	{@st42}Ausrüstbare Titel: [%s]{/}
-UI_20180418_003053	{@st42}{#00fec5}Verstärkungsphase des aktuellen Titels
-UI_20180418_003054	{@st42}Für die nächste Phase erforderliche Titel
+UI_20180418_003053	{@st42}{#00fec5}Verst.phase des Titels
+UI_20180418_003054	{@st42}Für die nächste Phase
 UI_20180418_003055	{@st42b}Phase %s{/}
 UI_20180418_003056	{@st66b}Effekte der nächsten Phase anzeigen{/}
 UI_20180418_003057	{@st59}Fenster der Transzendenz-Schriftrolle schließen{/}
