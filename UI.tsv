@@ -3457,9 +3457,9 @@ UI_20180827_003456	{S14}{@st42}Heutige Punkte: %s
 UI_20180827_003457	Anmeldebelohnungen
 UI_20180827_003458	{S14}{@st42}Gesamte Spielzeit: %s h %s min
 UI_20180827_003459	Aktuell keine Events.
-UI_20180827_003460	{@st66b}Normal{/}
-UI_20180827_003461	{@st66b}Wechselnd{/}
-UI_20180827_003462	{@st66b}Event{/}
+UI_20180827_003460	{@st66b}   Normal{/}
+UI_20180827_003461	{@st66b}   Wechselnd{/}
+UI_20180827_003462	{@st66b}   Event{/}
 UI_20180827_003463	Verfügbare Gegenstände
 UI_20180827_003464	※ Produkte, die alle 3 Monate aktualisiert werden (1. Januar, 1. April, 1. Juli und 1. Oktober).
 UI_20180827_003465	{@st66b}Waffen{/}
