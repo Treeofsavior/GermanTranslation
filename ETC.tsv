@@ -20762,7 +20762,7 @@ ETC_20160224_020763	Besiege alle Monster, um den Grabfürsten aufzuwecken!
 ETC_20160224_020764	Greif den mittleren königlichen Kubus an, um ihn zu aktivieren und den Sargwächter aufzuwecken!
 ETC_20160224_020765	Lopanther-Gebiet des Erdturms betreten
 ETC_20160224_020766	Lopanther-Gebiet des Erdturms betreten
-ETC_20160224_020767	Auf Kupole Lhuta warten
+ETC_20160224_020767	Auf Kupole Ruta warten
 ETC_20160224_020768	Der Gang nach E1 öffnet sich in 20 Sekunden
 ETC_20160224_020769	Begib dich zu E1.
 ETC_20160224_020770	Begib dich in den Erdturm E1.
@@ -23350,7 +23350,7 @@ ETC_20160811_023351	Um zu E{FLOOR} zu gelangen, brauchst du [{ITEM}] ({VALUE}x).
 ETC_20160811_023352	Erdturm im Solmiki-Gebiet betreten
 ETC_20160811_023353	Über das Solmiki-Gebiet
 ETC_20160811_023354	Mit dem Solmiki-Gebiet anfangen
-ETC_20160811_023355	Über Kupole Lhuta
+ETC_20160811_023355	Über Kupole Ruta
 ETC_20160811_023356	Über den Ursprung der Gebietsnamen
 ETC_20160811_023357	: benutzen zum Bewegen.
 ETC_20160811_023358	Anführer-Symbol benutzen
@@ -24671,8 +24671,8 @@ ETC_20161005_024672	Sofort nachdem Jaonus am Altar herumfummelte und verschwand,
 ETC_20161005_024673	Die Monster greifen an!
 ETC_20161005_024674	Hilf mir!
 ETC_20161005_024675	Halt!
-ETC_20161005_024676	Lhuta!
-ETC_20161005_024677	Lhuta, ich habe mir Sorgen gemacht.
+ETC_20161005_024676	Ruta!
+ETC_20161005_024677	Ruta, ich habe mir Sorgen gemacht.
 ETC_20161005_024678	Es gibt da etwas, das ich mit dir besprechen muss.
 ETC_20161005_024679	Bitte komm näher heran.
 ETC_20161005_024680	Göttin …
@@ -25470,7 +25470,7 @@ ETC_20161005_025471	Gehen wir jetzt und kümmern wir uns um Vhaldobas.
 ETC_20161005_025472	Ich kehre zuerst zu Hekti zurück.{nl}Komm in die Mitte.
 ETC_20161005_025473	Um zur {FLOOR} zu gelangen, brauchst du [{ITEM}] (x {VALUE}).{nl}Du kannst nur mit deinen Gruppenmitgliedern zusammen gehen.{nl}Möchtest du fortfahren?
 ETC_20161005_025474	Gruppenanführer folgen
-ETC_20161005_025475	Mit deinem Gruppenanführer zum Solmiki-Gebiet gehen{nl}(Sprich mit Kupole Lhuta, um dorthin zu gehen.)
+ETC_20161005_025475	Mit deinem Gruppenanführer zum Solmiki-Gebiet gehen{nl}(Sprich mit Kupole Ruta, um dorthin zu gehen.)
 ETC_20161005_025476	Mit deinem Gruppenanführer zum Solmiki-Gebiet gehen
 ETC_20161005_025477	Du kannst das Solmiki-Gebiet im Erdturm nicht betreten!{nl}Die Gruppenmitglieder erfüllen die vorgegebenen Bedingungen nicht.{nl}(Stufe reicht nicht aus)
 ETC_20161005_025478	Stufenaufstieg: {Auto_1}!
@@ -25632,7 +25632,7 @@ ETC_20161005_025633	Die Mission im Erdturm E37 beginnt in Kürze.
 ETC_20161005_025634	Die Mission im Erdturm E37 war erfolgreich!{nl}Begib dich zur nächsten Ebene.
 ETC_20161005_025635	Erdturm E38
 ETC_20161005_025636	Die erste Aufgabe hat begonnen.{nl}Beschütze die Kupole 270 Sekunden lang vor Monstern.
-ETC_20161005_025637	Kupole Lhuta beschützen
+ETC_20161005_025637	Kupole Ruta beschützen
 ETC_20161005_025638	Die Mission im Erdturm E38 beginnt in Kürze.
 ETC_20161005_025639	Die Mission im Erdturm E38 war erfolgreich!{nl}Begib dich zur nächsten Ebene.
 ETC_20161005_025640	Erdturm E39
